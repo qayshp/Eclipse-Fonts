@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Fonts Size" url="http://eclipse-fonts.googlecode.com/svn/trunk/FontsUpdate/">
+      Fonts Size Update Site
+   </description>
+   <feature url="features/FontsFeature_1.0.4.jar" id="FontsFeature" version="1.0.4"/>
+</site>

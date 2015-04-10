@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="FontsFeature"
+      label="FontsFeature"
+      version="1.0.6">
+
+   <description url="http://www.example.com/description">
+      Easily control editor Fonts size
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Eclipse-Fonts
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+   </license>
+
+   <url>
+      <update label="eclipse-fonts" url="http://eclipse-fonts.googlecode.com/svn/trunk/FontsUpdate/"/>
+   </url>
+
+   <plugin
+         id="Fonts"
+         download-size="0"
+         install-size="0"
+         version="1.0.6"
+         unpack="false"/>
+
+</feature>
